@@ -36,7 +36,8 @@ namespace DemoClient_MVC
             .AddCookie("Cookies")                        
             .AddOpenIdConnect("oidc", options =>
             {
-                options.Authority = "http://localhost:5000";
+                //options.Authority = "http://localhost:5000";
+                options.Authority = "http://eimas-identityserver.azurewebsites.net/";
                 options.RequireHttpsMetadata = false;
                 options.ClientId = "mvc";                
                 options.SaveTokens = true;                    

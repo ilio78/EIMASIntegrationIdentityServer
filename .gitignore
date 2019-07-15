@@ -3,3 +3,12 @@
 ################################################################################
 
 /.vs
+/Api/bin/Debug/netcoreapp2.2
+/Api/obj
+/Client/bin/Debug/netcoreapp2.2
+/Client/obj/Debug/netcoreapp2.2
+/Client/obj
+/DemoClient_MVC/bin/Debug/netcoreapp2.2
+/DemoClient_MVC/obj
+/IdentityServer/bin
+/IdentityServer/obj

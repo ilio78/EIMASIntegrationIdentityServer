@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ce fichier est utilisé par le processus de publication/package de votre projet web. Vous pouvez personnaliser le comportement de ce processus
+en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAx1pS1crb7EeyKjIK4pwcTgAAAAACAAAAAAADZgAAwAAAABAAAADo14yMnfwGM59tzHC5K2xIAAAAAASAAACgAAAAEAAAAFrFfJ1lxttX32lRGEbh1r+AAAAAJkOTZYC4JhbLAIaWrMs8ZlpUX+emQUTgrztZrVzv+Xvz9aEGcpTqA1tqwRM6ccSZyyPnikUuCHNL7Cvo4xtwNQ4CX2sBy8V6pDnlY8Nc2RCcXpfXznY4N1Z1Iv6huXekMP0EPuX6BHEDArCbinS6vOGRxHJQcIckW5jHHZEsJZkUAAAAY1Q4uj6+PSsbr5DlEsaY/Gpk2cY=</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-am2-127.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Update="appsettings.json" CopyToPublishDirectory="Never" />
+    <File Include="dotnet-aspnet-codegenerator-design.dll">
+      <publishTime>03/02/2019 19:51:38</publishTime>
+    </File>
+    <File Include="IdentityModel.dll">
+      <publishTime>04/29/2019 06:34:36</publishTime>
+    </File>
+    <File Include="IdentityServer.deps.json">
+      <publishTime>07/14/2019 14:59:24</publishTime>
+    </File>
+    <File Include="IdentityServer.dll">
+      <publishTime>07/14/2019 14:59:18</publishTime>
+    </File>
+    <File Include="IdentityServer.pdb">
+      <publishTime>07/14/2019 14:59:18</publishTime>
+    </File>
+    <File Include="IdentityServer.runtimeconfig.json">
+      <publishTime>07/14/2019 14:59:24</publishTime>
+    </File>
+    <File Include="IdentityServer.Views.dll">
+      <publishTime>07/14/2019 14:59:20</publishTime>
+    </File>
+    <File Include="IdentityServer.Views.pdb">
+      <publishTime>07/14/2019 14:59:20</publishTime>
+    </File>
+    <File Include="IdentityServer4.dll">
+      <publishTime>07/12/2019 13:29:30</publishTime>
+    </File>
+    <File Include="IdentityServer4.Storage.dll">
+      <publishTime>07/12/2019 13:27:04</publishTime>
+    </File>
+    <File Include="Microsoft.AI.DependencyCollector.dll">
+      <publishTime>05/22/2019 22:51:18</publishTime>
+    </File>
+    <File Include="Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>05/22/2019 23:00:24</publishTime>
+    </File>
+    <File Include="Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>05/21/2019 02:36:04</publishTime>
+    </File>
+    <File Include="Microsoft.AI.WindowsServer.dll">
+      <publishTime>05/22/2019 22:56:34</publishTime>
+    </File>
+    <File Include="Microsoft.ApplicationInsights.AspNetCore.dll">
+      <publishTime>06/21/2019 01:37:18</publishTime>
+    </File>
+    <File Include="Microsoft.ApplicationInsights.dll">
+      <publishTime>05/21/2019 02:32:48</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <publishTime>04/19/2019 11:02:22</publishTime>
+    </File>
+    <File Include="Microsoft.CodeAnalysis.Workspaces.dll">
+      <publishTime>04/19/2019 11:02:26</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.Logging.ApplicationInsights.dll">
+      <publishTime>05/22/2019 23:21:40</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.PlatformAbstractions.dll">
+      <publishTime>04/23/2019 19:45:08</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Clients.ActiveDirectory.dll">
+      <publishTime>06/12/2019 15:02:42</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.JsonWebTokens.dll">
+      <publishTime>06/19/2018 03:41:22</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Logging.dll">
+      <publishTime>06/19/2018 03:42:34</publishTime>
+    </File>
+    <File Include="Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>06/19/2018 03:46:36</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll">
+      <publishTime>03/02/2019 19:51:20</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Core.dll">
+      <publishTime>03/02/2019 19:51:30</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.dll">
+      <publishTime>03/02/2019 19:51:32</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll">
+      <publishTime>03/02/2019 19:51:30</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll">
+      <publishTime>03/02/2019 19:51:26</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll">
+      <publishTime>03/02/2019 19:51:22</publishTime>
+    </File>
+    <File Include="Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll">
+      <publishTime>03/02/2019 19:51:34</publishTime>
+    </File>
+    <File Include="NuGet.Frameworks.dll">
+      <publishTime>04/19/2019 11:02:15</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll">
+      <publishTime>05/15/2018 13:29:36</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>05/15/2018 13:29:44</publishTime>
+    </File>
+    <File Include="Serilog.AspNetCore.dll">
+      <publishTime>03/07/2018 06:12:12</publishTime>
+    </File>
+    <File Include="Serilog.dll">
+      <publishTime>01/16/2019 23:25:02</publishTime>
+    </File>
+    <File Include="Serilog.Extensions.Logging.dll">
+      <publishTime>08/18/2017 02:37:34</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.Console.dll">
+      <publishTime>10/22/2017 16:48:40</publishTime>
+    </File>
+    <File Include="Serilog.Sinks.File.dll">
+      <publishTime>10/29/2017 18:30:08</publishTime>
+    </File>
+    <File Include="System.Composition.AttributedModel.dll">
+      <publishTime>04/19/2019 11:02:21</publishTime>
+    </File>
+    <File Include="System.Composition.Convention.dll">
+      <publishTime>04/19/2019 11:02:21</publishTime>
+    </File>
+    <File Include="System.Composition.Hosting.dll">
+      <publishTime>04/19/2019 11:02:21</publishTime>
+    </File>
+    <File Include="System.Composition.Runtime.dll">
+      <publishTime>04/19/2019 11:02:21</publishTime>
+    </File>
+    <File Include="System.Composition.TypedParts.dll">
+      <publishTime>04/19/2019 11:02:21</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>05/15/2018 13:29:38</publishTime>
+    </File>
+    <File Include="System.Diagnostics.PerformanceCounter.dll">
+      <publishTime>05/15/2018 13:29:36</publishTime>
+    </File>
+    <File Include="System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>06/19/2018 03:40:22</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>05/15/2018 13:29:44</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>07/14/2019 14:59:24</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.css">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.less">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/css/site.min.css">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/favicon.ico">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/icon.jpg">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/icon.png">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/js/signin-redirect.js">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/js/signout-redirect.js">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.css">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.css.map">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.min.css">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.js">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.min.js">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/jquery.js">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/jquery.min.js">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/jquery.min.map">
+      <publishTime>05/16/2019 22:49:16</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

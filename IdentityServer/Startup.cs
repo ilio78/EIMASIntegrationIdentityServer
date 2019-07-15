@@ -165,7 +165,8 @@ namespace IdentityServer
 
                 });
 
-            if (Environment.IsDevelopment())
+            // DANGER : PRODUCTION MUST SIGN KEYS WITH A CERT!
+            //if (Environment.IsDevelopment())
             {
                 builder.AddDeveloperSigningCredential();
             }
